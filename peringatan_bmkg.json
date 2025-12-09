@@ -1,0 +1,70 @@
+
+{
+    "peringatan": {
+        "jam_mulai": "16:15",
+        "jam_berakhir": "19:15",
+        "wilayah_awal": {
+            "Kabupaten Kapuas Hulu": [
+                "Putussibau Utara", "Putussibau Selatan", "Bika", "Embaloh Hilir", 
+                "Embaloh Hulu", "Bunut Hilir", "Bunut Hulu", "Boyan Tanjung", 
+                "Mentebah", "Silat Hilir", "Silat Hulu", "Semitau", "Batang Lupar"
+            ],
+            "Kabupaten Sintang": [
+                "Sintang", "Sungai Tebelian", "Tempunak", "Sepauk", "Dedai", 
+                "Kayan Hilir", "Kayan Hulu", "Ketungau Hilir", "Ketungau Tengah", 
+                "Ketungau Hulu", "Serawai", "Ambalau"
+            ],
+            "Kabupaten Melawi": [
+                "Nanga Pinoh", "Pinoh Selatan", "Pinoh Utara", "Belimbing", 
+                "Belimbing Hulu", "Ella Hilir", "Menukung", "Sayan", "Tanah Pinoh",
+                "Tanah Pinoh Barat", "Sokan"
+            ],
+            "Kabupaten Sekadau": [
+                "Sekadau Hilir", "Sekadau Hulu", "Nanga Taman", "Nanga Mahap", 
+                "Belitang Hilir", "Belitang Hulu", "Belitang"
+            ]
+        },
+        "wilayah_meluas": {
+            "Kabupaten Sanggau": [
+                "Kapuas", "Mukok", "Jangkang", "Bonti", "Parindu", "Tayan Hilir", 
+                "Tayan Hulu", "Balai", "Toba", "Meliau", "Sekayam", "Entikong"
+            ],
+            "Kabupaten Landak": [
+                "Ngabang", "Jelimpo", "Sengah Temila", "Mandor", "Menjalin", 
+                "Mempawah Hulu", "Sebangki", "Air Besar", "Kuala Behe"
+            ],
+            "Kabupaten Bengkayang": [
+                "Bengkayang", "Teriak", "Sungai Betung", "Ledo", "Suti Semarang", 
+                "Lumar", "Sanggau Ledo", "Jagoi Babang"
+            ],
+            "Kabupaten Sambas": [
+                "Sambas", "Teluk Keramat", "Tebas", "Semparuk", "Pemangkat", "Selakau",
+                "Sajad", "Sejangkung", "Paloh", "Sajingan Besar"
+            ],
+            "Kota Singkawang": [
+                "Singkawang Barat", "Singkawang Tengah", "Singkawang Timur", 
+                "Singkawang Utara", "Singkawang Selatan"
+            ],
+            "Kabupaten Mempawah": [
+                "Mempawah Hilir", "Mempawah Timur", "Sungai Pinyuh", "Sungai Kunyit", 
+                "Segedong", "Jongkat", "Toho", "Sadaniang"
+            ],
+            "Kota Pontianak": [
+                "Pontianak Kota", "Pontianak Barat", "Pontianak Selatan", 
+                "Pontianak Tenggara", "Pontianak Timur", "Pontianak Utara"
+            ],
+            "Kabupaten Kubu Raya": [
+                "Sungai Raya", "Sungai Kakap", "Kuala Mandor B", "Sungai Ambawang", 
+                "Rasau Jaya", "Kubu", "Teluk Pakedai", "Batu Ampar", "Terentang"
+            ],
+            "Kabupaten Ketapang": [
+                "Delta Pawan", "Muara Pawan", "Benua Kayong", "Matan Hilir Selatan", 
+                "Matan Hilir Utara", "Kendawangan", "Sandai", "Nanga Tayap"
+            ],
+            "Kabupaten Kayong Utara": [
+                "Sukadana", "Simpang Hilir", "Teluk Batang", "Seponti", "Pulau Maya",
+                "Kepulauan Karimata"
+            ]
+        }
+    }
+}

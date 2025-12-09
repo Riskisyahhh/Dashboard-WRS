@@ -1,0 +1,5 @@
+{
+  "name": "Dashboard Monitoring Cuaca Ekstrem",
+  "description": "Sistem peringatan dini cuaca ekstrem real-time berbasis data BMKG dan peta interaktif.",
+  "requestFramePermissions": []
+}
